@@ -1,14 +1,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- Main Website -->
 <url>
 <loc>https://wyvern.host/</loc>
 <priority>1.00</priority>
 </url>
-<url>
-<loc>https://billing.wyvern.host/</loc>
-<priority>0.80</priority>
-</url>
+<!-- Panel -->
 <url>
 <loc>https://panel.wyvern.host/</loc>
 <priority>0.80</priority>
 </url>
+<!-- Billing Panel -->
+<url>
+<loc>https://billing.wyvern.host/index.php</loc>
+<priority>0.80</priority>
+</url>
+<!-- Budget Minecraft Hosting -->
+<url>
+<loc>https://billing.wyvern.host/store/budget-mc-hosting</loc>
+<priority>0.50</priority>
+</url>
+<!-- Premium Minecraft Hosting -->
+<url>
+<loc>https://billing.wyvern.host/store/premium-mc-hosting</loc>
+<priority>0.50</priority>
+</url>
+<!-- Premium VPS Hosting -->
+<url>
+<loc>https://billing.wyvern.host/store/premium-vps-hosting</loc>
+</loc>
+<priority>0.50</priority>
+</url>
+<!-- Register a New Domain -->
+<url>
+<loc>https://billing.wyvern.host/cart.php?a=add&domain=register</loc>
+<priority>0.50</priority>
+</url>
+<!-- Transfer in a Domain -->
+<url>
+<loc>https://billing.wyvern.host/cart.php?a=add&domain=transfer</loc>
+<priority>0.50</priority>
+</url>
+<!-- Checkout -->
+<url>
+<loc>https://billing.wyvern.host/cart.php?a=checkout</loc>
+<priority>0.50</priority>
+</url>
+<!-- Contact Us -->
+<url>
+<loc>https://billing.wyvern.host/contact.php</loc>
+<priority>0.40</priority>
+</url>
+<!-- Client Login (Billing) -->
+<url>
+<loc>https://billing.wyvern.host/login</loc>
+<priority>0.40</priority>
+</url>
+<!-- News -->
+<url>
+<loc>https://billing.wyvern.host/announcements</loc>
+<priority>0.30</priority>
+</url>
+<!-- Downloads -->
+<url>
+<loc>https://billing.wyvern.host/download</loc>
+<priority>0.30
 </urlset>
