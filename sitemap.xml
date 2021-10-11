@@ -4,10 +4,46 @@
 <loc>https://wyvern.host/</loc>
 <priority>1.00</priority>
 </url>
+<!-- Client Area -->
+<url>
+  <loc>https://billing.wyvern.host/</loc>
+</url>
+<!-- Minecraft -->
+<url>
+  <loc>https://billing.wyvern.host/store/budget-mc-hosting</loc>
+</url>
+<!-- VPS -->
+<url>
+  <loc>https://billing.wyvern.host/store/budget-vps-hosting</loc>
+</url>
+<!-- Documentation -->
+<url>
+  <loc>https://docs.wyvern.host/</loc>
+</url>
+<!-- Status -->
+<url>
+  <loc>https://status.wyvern.host/</loc>
+</url>
+<!-- Contact -->
+<url>
+  <loc>https://billing.wyvern.host/contact.php</loc>
+</url>
+<!-- Wyvern Hosting Discord -->
+<url>
+  <loc>https://discord.gg/UTmtWYMfae</loc>
+</url>
+<!-- Trustpilot Reviews -->
+<url>
+  <loc>https://trustpilot.com/review/wyvern.host</loc>
+</url>
 <!-- Panel -->
 <url>
 <loc>https://panel.wyvern.host/</loc>
-<priority>0.80</priority>
+<priority>0.80</priority> 
+</url>
+<!-- Forgot Panel Password -->
+<url>
+  <loc>https://panel.wyvern.host/auth/password</loc>
 </url>
 <!-- Billing Panel -->
 <url>
@@ -55,6 +91,77 @@
 <loc>https://billing.wyvern.host/login</loc>
 <priority>0.40</priority>
 </url>
+<!-- Client Register (Billing) -->
+<url>
+  <loc><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- Main Website -->
+<url>
+<loc>https://wyvern.host/</loc>
+<priority>1.00</priority>
+</url>
+<!-- Panel -->
+<url>
+<loc>https://panel.wyvern.host/</loc>
+<priority>0.80</priority> 
+</url>
+<!-- Forgot Panel Password -->
+<url>
+  <loc>https://panel.wyvern.host/auth/password</loc>
+</url>
+<!-- Billing Panel -->
+<url>
+<loc>https://billing.wyvern.host/index.php</loc>
+<priority>0.80</priority>
+</url>
+<!-- Budget Minecraft Hosting -->
+<url>
+<loc>https://billing.wyvern.host/store/budget-mc-hosting</loc>
+<priority>0.50</priority>
+</url>
+<!-- Premium Minecraft Hosting -->
+<url>
+<loc>https://billing.wyvern.host/store/premium-mc-hosting</loc>
+<priority>0.50</priority>
+</url>
+<!-- Premium VPS Hosting -->
+<url>
+<loc>https://billing.wyvern.host/store/premium-vps-hosting</loc>
+</loc>
+<priority>0.50</priority>
+</url>
+<!-- Register a New Domain -->
+<url>
+<loc>https://billing.wyvern.host/cart.php?a=add&domain=register</loc>
+<priority>0.50</priority>
+</url>
+<!-- Transfer in a Domain -->
+<url>
+<loc>https://billing.wyvern.host/cart.php?a=add&domain=transfer</loc>
+<priority>0.50</priority>
+</url>
+<!-- Checkout -->
+<url>
+<loc>https://billing.wyvern.host/cart.php?a=checkout</loc>
+<priority>0.50</priority>
+</url>
+<!-- Contact Us -->
+<url>
+<loc>https://billing.wyvern.host/contact.php</loc>
+<priority>0.40</priority>
+</url>
+<!-- Client Login (Billing) -->
+<url>
+<loc>https://billing.wyvern.host/login</loc>
+<priority>0.40</priority>
+</url>
+<!-- Client Register (Billing) -->
+<url>
+  <loc>https://billing.wyvern.host/register.php</loc>
+</url>
+<!-- Forgot Billing Panel Password -->
+<url>
+  <loc>https://billing.wyvern.host/password/reset</loc>
+</url>
 <!-- News -->
 <url>
 <loc>https://billing.wyvern.host/announcements</loc>
@@ -65,3 +172,69 @@
 <loc>https://billing.wyvern.host/download</loc>
 <priority>0.30
 </urlset>
+<!-- Knowledgebase -->
+<url>
+<loc>https://billing.wyvern.host/knowledgebase</loc>
+</url>
+<!-- Affiliate -->
+<url>
+<loc>https://billing.wyvern.host/affiliates.php</loc>
+</url>
+<!-- Existing Support Tickets -->
+<url>
+  <loc>https://billing.wyvern.host/supporttickets.php</loc>
+</url>
+<!-- Open Support Ticket -->
+<url>
+  <loc>https://billing.wyvern.host/submitticket.php</loc>
+</url>
+<!-- Network Status -->
+<url>
+  <loc>https://billing.wyvern.host/serverstatus.php</loc>
+</url>
+<!-- RSS Feed -->
+<url>
+  <loc>https://billing.wyvern.host/announcements/rss</loc>
+</url>
+<!-- Old Announcements -->
+<url>
+  <loc>https://billing.wyvern.host/announcements/view/older</loc>
+</url>
+<!-- News -->
+<url>
+<loc>https://billing.wyvern.host/announcements</loc>
+<priority>0.30</priority>
+</url>
+<!-- Downloads -->
+<url>
+<loc>https://billing.wyvern.host/download</loc>
+<priority>0.30
+</urlset>
+<!-- Knowledgebase -->
+<url>
+<loc>https://billing.wyvern.host/knowledgebase</loc>
+</url>
+<!-- Affiliate -->
+<url>
+<loc>https://billing.wyvern.host/affiliates.php</loc>
+</url>
+<!-- Existing Support Tickets -->
+<url>
+  <loc>https://billing.wyvern.host/supporttickets.php</loc>
+</url>
+<!-- Open Support Ticket -->
+<url>
+  <loc>https://billing.wyvern.host/submitticket.php</loc>
+</url>
+<!-- Network Status -->
+<url>
+  <loc>https://billing.wyvern.host/serverstatus.php</loc>
+</url>
+<!-- RSS Feed -->
+<url>
+  <loc>https://billing.wyvern.host/announcements/rss</loc>
+</url>
+<!-- Old Announcements -->
+<url>
+  <loc>https://billing.wyvern.host/announcements/view/older</loc>
+</url>
