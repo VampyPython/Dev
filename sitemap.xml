@@ -4,10 +4,6 @@
 <loc>https://wyvern.host/</loc>
 <priority>1.00</priority>
 </url>
-<!-- Client Area -->
-<url>
-  <loc>https://billing.wyvern.host/</loc>
-</url>
 <!-- Minecraft -->
 <url>
   <loc>https://billing.wyvern.host/store/budget-mc-hosting</loc>
@@ -70,11 +66,6 @@
 <!-- Premium Minecraft Hosting -->
 <url>
 <loc>https://billing.wyvern.host/store/premium-mc-hosting</loc>
-<priority>0.50</priority>
-</url>
-<!-- Premium VPS Hosting -->
-<url>
-<loc>https://billing.wyvern.host/store/premium-vps-hosting</loc>
 <priority>0.50</priority>
 </url>
 <!-- Register a New Domain -->
